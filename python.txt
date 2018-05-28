@@ -1,5 +1,5 @@
-Python 2.7.15rc1 (default, Apr 15 2018, 21:51:34) 
-[GCC 7.3.0] on linux2
+Pytho 2.7.15rc1 (default, Apr 15 2018, 21:51:34) 
+
 Type "help", "copyright", "credits" or "license" for more information.
 
 woshi shui 
